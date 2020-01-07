@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:url("http://cdn2.crn.de/thumbs/fileadmin/images/Datacenter_Fotolia_186494361_sdecoret.jpg.774x387.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.boxIndex {
+    width:350px ;
+    color: #e38d13;
+    background: #ffffff;
+    top: 20% ;
+    left:32% ;
+    position:absolute ;
+    box-sizing: border-box;
+    padding: 30px 50px;
+}
+.boxCIDR {
+    width:350px ;
+    height:470px ;
+    color: #e38d13;
+    background: #ffffff;
+    top: 16% ;
+    left:32% ;
+    position:absolute ;
+    box-sizing: border-box;
+    padding: 30px 50px;
+}
+h1 {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+
+}
